@@ -5,7 +5,7 @@ docs/manual.html
 docs/manual/.build/doctrees/*
 docs/manual/.build/html/*
 venv/
-dist/
+build/
 MANIFEST
 python.bat
 NEWS.html
