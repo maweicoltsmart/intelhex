@@ -83,7 +83,7 @@ class IntelHex(object):
         # private members
         self._buf = {}
         self._offset = 0
-
+        print(source)
         if source is not None:
             if isinstance(source, StrType) or getattr(source, "read", None):
                 # load hex file
